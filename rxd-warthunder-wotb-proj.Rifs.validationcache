@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Virtual Acoustics\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Triggers\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Switches\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\States\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\SoundBanks\Default Work Unit.wwu" DateLow="1689868111" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\rxd-warthunder-wotb-proj.wproj" DateLow="1689868907" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\rxd-warthunder-wotb-proj.Rifs.wsettings" DateLow="1689870248" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Queries\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Presets\Factory Spatial Audio.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Presets\Factory Reflect.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Presets\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Modulators\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Mixing Sessions\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Game Parameters\Default Work Unit.wwu" DateLow="1689867572" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Events\Default Work Unit.wwu" DateLow="1689712574" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Effects\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Conversion Settings\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Control Surface Sessions\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Audio Devices\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Attenuations\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Work\git\rxd-thunder-proj\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1689867582" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Rifs\Documents\WwiseProjects\rxd-warthunder-wotb-proj\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1688737949" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Rifs\Documents\WwiseProjects\rxd-warthunder-wotb-proj\Virtual Acoustics\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
 	<ValidationCacheItem File="C:\Users\Rifs\Documents\WwiseProjects\rxd-warthunder-wotb-proj\Triggers\Default Work Unit.wwu" DateLow="1689707073" DateHigh="0"/>
