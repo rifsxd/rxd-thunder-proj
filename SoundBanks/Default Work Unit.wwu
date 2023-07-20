@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{DCE08302-AFD4-44BD-82F7-A492C3B0FCB6}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{DCE08302-AFD4-44BD-82F7-A492C3B0FCB6}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="cv" ID="{72E96E0F-7111-4B90-84A6-C83968D14CEA}" ShortID="485344047">
+					<ChildrenList>
+						<SoundBank Name="voiceover_crew" ID="{427BAF03-231E-4688-945E-05F79CC30FF2}">
+							<ObjectInclusionList>
+								<ObjectRef Name="Play_ally_killed" ID="{9CAD633C-3FDD-402F-890B-FDA279CD4A21}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_armor_pierced_by_player" ID="{91A2CFC0-BB9F-4061-82EB-AB2AD729D1A5}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_turret_rotator_destroyed" ID="{6C9FF1F8-7002-408E-B912-402408E1023F}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_armor_ricochet_by_player" ID="{87D50706-FC30-40AF-92AB-0395DD2DAA1A}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_gun_damaged" ID="{0D7AAB08-6F6B-40C4-B0D8-13E533D63351}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_armor_pierced_crit_by_player" ID="{E933E3D7-6929-4155-88BE-0A5C7895FA90}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_fire_stopped" ID="{8FF9BEA4-2DE5-4166-AE94-96669C951D22}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_commander_killed" ID="{6ACA2FC4-F097-41E4-85A1-2AB80480B58D}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_turret_rotator_functional" ID="{B0C71041-4F42-41E5-B183-E8BF3509E618}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_gun_destroyed" ID="{9F4FC7C1-392C-425A-B29D-C6AB0F7F6F6D}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_ammo_bay_damaged" ID="{32C9F729-F475-426D-9816-F6C1F9F02540}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_track_damaged" ID="{46FBB31B-A96D-432A-BA45-47F06D613630}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_track_destroyed" ID="{42821D7C-27B8-436B-845D-6F1F99BF00C7}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_gunner_killed" ID="{0E247A66-D5E0-436B-B84A-65CA64B3FEEA}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_fuel_tank_damaged" ID="{AF1F5BA9-A5AA-4381-B23E-12445AD900E7}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_gun_functional" ID="{85145543-EE33-4388-89E1-9319D802E4C0}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_surveying_devices_damaged" ID="{317FC26F-443C-43A6-948F-E58B06EE0715}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_turret_rotator_damaged" ID="{C8264D1C-B385-43D6-AEE3-49417DBCFFC8}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_loader_killed" ID="{FFFD6077-06C7-43DD-BDA7-AE9DECF6D544}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_vehicle_destroyed" ID="{EA1D0E5D-1E80-44A9-8A29-CBE769D7F09D}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_armor_not_pierced_by_player" ID="{D6935D46-B7D6-45D2-B97F-9A9F41B54AFC}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_enemy_killed_by_player" ID="{71E7F520-E444-46EE-9F28-05575A3EF707}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_engine_destroyed" ID="{8421289A-0005-4792-A65B-039CCDFE9499}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_track_functional" ID="{EC82EACF-8597-499C-B4F6-865B77234123}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_driver_killed" ID="{B7CB5DDF-9A6C-4A48-AD7A-757ACE2CA3ED}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_fire_started" ID="{CB90ED45-3C71-4ADB-B24C-AF308F25CE9E}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_engine_damaged" ID="{72074EC4-47CB-4C2C-BAD9-C9777CE5A6CA}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_surveying_devices_functional" ID="{CDFEA794-0108-4D5A-88A9-8F30B6FE49E3}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_load_shell" ID="{0012DBF6-DCD9-4DF2-8538-36EB6B5165DA}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_reloaded" ID="{0C2B123A-46EC-4DF8-AE95-2ACE8C704237}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_surveying_devices_destroyed" ID="{6B74BBEB-59C5-4E62-A686-34B779272345}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_engine_functional" ID="{C6456FED-401C-4EB9-BADB-7CFF12DBD283}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_radio_damaged" ID="{083D479D-912E-4F63-A7CD-A9A670FCCF82}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_start_battle" ID="{0DE896C6-7DF7-4FA4-A5E4-B88C7430B1AA}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_radioman_killed" ID="{512487E1-DC82-4FBF-9FEA-66FA6E4DE076}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+								<ObjectRef Name="Play_track_functional_can_move" ID="{60789A61-1A9B-4FE1-89E3-418DDC03FA70}" WorkUnitID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" Origin="Manual" Filter="7"/>
+							</ObjectInclusionList>
+							<ObjectExclusionList/>
+							<GameSyncExclusionList/>
+						</SoundBank>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

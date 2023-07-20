@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{EEE2301A-113B-47CC-BFAF-3BDC73C36448}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="cv" ID="{03171CB0-5572-4B5D-BB3B-D0FFC4B60742}" ShortID="1008227160">
+					<ChildrenList>
+						<Event Name="Play_start_battle" ID="{0DE896C6-7DF7-4FA4-A5E4-B88C7430B1AA}">
+							<ChildrenList>
+								<Action Name="" ID="{CBE55CE6-82CC-4ABB-BEA0-D4D9795D3D5C}" ShortID="967895201">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="start battle" ID="{87EA3D5C-D6C1-409C-A41E-2CCEDEC98265}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_surveying_devices_functional" ID="{CDFEA794-0108-4D5A-88A9-8F30B6FE49E3}">
+							<ChildrenList>
+								<Action Name="" ID="{14335199-C1A2-44B8-87D8-263815BFFED6}" ShortID="368044852">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="surveying devices functional" ID="{B1E8CF6B-7949-4BF0-8A46-96ECA7671595}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_turret_rotator_damaged" ID="{C8264D1C-B385-43D6-AEE3-49417DBCFFC8}">
+							<ChildrenList>
+								<Action Name="" ID="{D18F1A6D-76C9-4E50-A551-0C7AC794661F}" ShortID="586279184">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="turret rotator damaged" ID="{9CA5E8F3-A8C6-4BB1-9ECC-C696D1B12361}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_fuel_tank_damaged" ID="{AF1F5BA9-A5AA-4381-B23E-12445AD900E7}">
+							<ChildrenList>
+								<Action Name="" ID="{3EB105A1-B2AC-4250-863E-0A286092BFBF}" ShortID="277533520">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="fuel tank damaged" ID="{9240C2F9-8D30-46D1-B4C2-CA217E992B0A}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_radioman_killed" ID="{512487E1-DC82-4FBF-9FEA-66FA6E4DE076}">
+							<ChildrenList>
+								<Action Name="" ID="{6266B100-4E28-442B-AFE5-734E116A8038}" ShortID="1009403702">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="radioman killed" ID="{5DAA3B07-3A1F-4FC4-A655-08A09FC2D4AB}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_driver_killed" ID="{B7CB5DDF-9A6C-4A48-AD7A-757ACE2CA3ED}">
+							<ChildrenList>
+								<Action Name="" ID="{4B47D1AB-89AD-460E-A3B9-1B1797BC3D9A}" ShortID="489278317">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="driver killed" ID="{AEEDFD56-EA61-4C99-B2B4-E32A3518888F}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_ally_killed" ID="{9CAD633C-3FDD-402F-890B-FDA279CD4A21}">
+							<ChildrenList>
+								<Action Name="" ID="{6FBF741F-02E6-4172-826D-CB5405F0C89E}" ShortID="489400828">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ally killed" ID="{0D1D1B01-097A-4E88-BB96-2879F3F13C49}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_loader_killed" ID="{FFFD6077-06C7-43DD-BDA7-AE9DECF6D544}">
+							<ChildrenList>
+								<Action Name="" ID="{E19E996A-72F4-4C47-AA70-E4EF4C9A2286}" ShortID="49572857">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="loader killed" ID="{CD8E13C7-56CB-477F-B6F9-D8DA7171FCA3}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_turret_rotator_destroyed" ID="{6C9FF1F8-7002-408E-B912-402408E1023F}">
+							<ChildrenList>
+								<Action Name="" ID="{2D6C5AFB-0000-40F8-831D-3078B5F204C2}" ShortID="581614391">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="turret rotator destroyed" ID="{DF15FB05-D0F5-4024-932B-CEF59DFD9339}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_turret_rotator_functional" ID="{B0C71041-4F42-41E5-B183-E8BF3509E618}">
+							<ChildrenList>
+								<Action Name="" ID="{13B1D818-28B0-4537-BDEC-C0D019B9F24C}" ShortID="686527915">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="turret rotator functional" ID="{7EA453E2-338F-4EA8-8DF8-7FA014A1018C}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_radio_damaged" ID="{083D479D-912E-4F63-A7CD-A9A670FCCF82}">
+							<ChildrenList>
+								<Action Name="" ID="{2A6F14E2-352C-4C35-A2F3-EE420F30344D}" ShortID="691192423">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="radio damaged" ID="{CEEAA73D-E190-4AE3-9DF2-ED0AF7A67D70}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_enemy_killed_by_player" ID="{71E7F520-E444-46EE-9F28-05575A3EF707}">
+							<ChildrenList>
+								<Action Name="" ID="{2693F599-1FB7-4050-88E5-DDDCE5FDDBA2}" ShortID="601225287">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="enemy killed by player" ID="{8F3BB341-D0E5-4520-9619-FAAD459F4418}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_engine_functional" ID="{C6456FED-401C-4EB9-BADB-7CFF12DBD283}">
+							<ChildrenList>
+								<Action Name="" ID="{E9919926-90DE-45F6-8A98-811C8EE2E0DD}" ShortID="605653336">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="engine functional" ID="{67DD39E9-2969-449F-B1E2-0A3A3D656729}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_load_shell" ID="{0012DBF6-DCD9-4DF2-8538-36EB6B5165DA}">
+							<ChildrenList>
+								<Action Name="" ID="{E2BCD55C-81BF-4C93-8CCB-79F11E397379}" ShortID="304794877">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="load shell" ID="{D6B2FBF6-9BEC-4B7F-9C66-BF5FA3FD2E1A}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_surveying_devices_damaged" ID="{317FC26F-443C-43A6-948F-E58B06EE0715}">
+							<ChildrenList>
+								<Action Name="" ID="{E76FF597-1A85-461F-BC2A-5DFE6FEFC25F}" ShortID="769812492">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="surveying devices damaged" ID="{99770356-7F54-4DC8-B613-567D98CF4BBD}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_ammo_bay_damaged" ID="{32C9F729-F475-426D-9816-F6C1F9F02540}">
+							<ChildrenList>
+								<Action Name="" ID="{B00773B0-0713-4310-A0CA-8E38CB156949}" ShortID="621457914">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="ammo bay damaged" ID="{FE2BED5A-8C68-440E-A35A-E462EABFF225}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_gun_functional" ID="{85145543-EE33-4388-89E1-9319D802E4C0}">
+							<ChildrenList>
+								<Action Name="" ID="{74765E92-9966-48DE-9E67-CAFDF28C399E}" ShortID="369324583">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gun functional" ID="{62B80811-70D4-4F4F-86D2-C119EA3744B6}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_armor_ricochet_by_player" ID="{87D50706-FC30-40AF-92AB-0395DD2DAA1A}">
+							<ChildrenList>
+								<Action Name="" ID="{F606E00E-1250-4721-9F67-37495FBF24DA}" ShortID="169154675">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="armor ricochet by player" ID="{6131F719-150C-448B-953B-24A3E2314A8A}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_engine_damaged" ID="{72074EC4-47CB-4C2C-BAD9-C9777CE5A6CA}">
+							<ChildrenList>
+								<Action Name="" ID="{CD0AACE2-C762-4959-96B5-7DDDA541B425}" ShortID="778425435">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="engine damaged" ID="{21EAD2EC-6180-492F-8DBE-B40B11398A02}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_gun_damaged" ID="{0D7AAB08-6F6B-40C4-B0D8-13E533D63351}">
+							<ChildrenList>
+								<Action Name="" ID="{03751709-D8C4-48E3-91C8-FF2654FDEF2D}" ShortID="638764063">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gun damaged" ID="{19255CEB-8BAD-4CE4-8704-BC1CC8D8183B}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_reloaded" ID="{0C2B123A-46EC-4DF8-AE95-2ACE8C704237}">
+							<ChildrenList>
+								<Action Name="" ID="{E31C38DB-F9F3-41DE-8A51-D745C6D65D80}" ShortID="644340223">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="reloaded" ID="{4F6B3788-301B-4B05-AA8F-D1B8C94C90A1}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_armor_not_pierced_by_player" ID="{D6935D46-B7D6-45D2-B97F-9A9F41B54AFC}">
+							<ChildrenList>
+								<Action Name="" ID="{00712B6F-3B7C-41C1-9033-D0DBB5710889}" ShortID="690044407">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="armor not pierced by player" ID="{D1809FA4-E34E-4439-AD0E-C6B6874109C7}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_track_destroyed" ID="{42821D7C-27B8-436B-845D-6F1F99BF00C7}">
+							<ChildrenList>
+								<Action Name="" ID="{48102794-B3F0-485A-8E62-DC0CCA911474}" ShortID="171320954">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="track destroyed" ID="{BB3A0460-38F9-489E-84FD-2A5FB1AC9EEC}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_vehicle_destroyed" ID="{EA1D0E5D-1E80-44A9-8A29-CBE769D7F09D}">
+							<ChildrenList>
+								<Action Name="" ID="{51835B9F-C817-4070-B386-AE59F7EB1D2A}" ShortID="541500357">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="vehicle destroyed" ID="{97705995-D7B4-45AC-8E32-F8E28CF9BC54}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_armor_pierced_by_player" ID="{91A2CFC0-BB9F-4061-82EB-AB2AD729D1A5}">
+							<ChildrenList>
+								<Action Name="" ID="{BE1BC31E-C7B4-4AF0-94C8-301D28AAF64D}" ShortID="346734525">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="armor pierced by player" ID="{CDA162A7-6AF2-4E85-8198-0D011B7007CC}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_commander_killed" ID="{6ACA2FC4-F097-41E4-85A1-2AB80480B58D}">
+							<ChildrenList>
+								<Action Name="" ID="{B88C639E-8D8D-42D5-9B15-68333B089520}" ShortID="31245774">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="commander killed" ID="{4FCD538A-6CDB-4AC0-BCDA-9C37185101C2}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_fire_started" ID="{CB90ED45-3C71-4ADB-B24C-AF308F25CE9E}">
+							<ChildrenList>
+								<Action Name="" ID="{436C104C-EE0B-4426-84F1-0B65E2A81868}" ShortID="999155902">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="fire started" ID="{C2DD489A-8B56-4D37-901E-309851365FD4}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_surveying_devices_destroyed" ID="{6B74BBEB-59C5-4E62-A686-34B779272345}">
+							<ChildrenList>
+								<Action Name="" ID="{974522FD-5712-4842-93DC-E3978E80896E}" ShortID="205481837">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="surveying devices destroyed" ID="{6D0A73A0-738A-4A7A-BC16-1D47B03279B8}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_armor_pierced_crit_by_player" ID="{E933E3D7-6929-4155-88BE-0A5C7895FA90}">
+							<ChildrenList>
+								<Action Name="" ID="{8FFFFCA8-23D4-4DC2-BA8C-5BA6051F0A76}" ShortID="49112736">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="armor pierced crit by player" ID="{44695176-7D07-4284-B9E0-5F288B3D4315}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_track_functional" ID="{EC82EACF-8597-499C-B4F6-865B77234123}">
+							<ChildrenList>
+								<Action Name="" ID="{EB651AA9-2397-4EC6-A82F-1BB36C6FE044}" ShortID="610421694">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="track functional" ID="{C3B6539D-38A1-4066-B110-B159D90694E2}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_gun_destroyed" ID="{9F4FC7C1-392C-425A-B29D-C6AB0F7F6F6D}">
+							<ChildrenList>
+								<Action Name="" ID="{8CA8B874-0C74-4904-B25E-725EBA1B74CA}" ShortID="104516555">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gun destroyed" ID="{271FCF21-B35E-4D39-9D27-A1CC6B136111}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_gunner_killed" ID="{0E247A66-D5E0-436B-B84A-65CA64B3FEEA}">
+							<ChildrenList>
+								<Action Name="" ID="{008A4268-FCCA-43E7-9A5E-5418CE46CA91}" ShortID="605318000">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="gunner killed" ID="{36DD7D04-A8D4-4299-9EE5-CC996C040EB3}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_track_damaged" ID="{46FBB31B-A96D-432A-BA45-47F06D613630}">
+							<ChildrenList>
+								<Action Name="" ID="{C958C0ED-7A20-4B17-8B23-D615A2D4B7B0}" ShortID="155236680">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="track damaged" ID="{594FBB2F-01B6-4B54-96CB-8E317EEA9DC0}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_track_functional_can_move" ID="{60789A61-1A9B-4FE1-89E3-418DDC03FA70}">
+							<ChildrenList>
+								<Action Name="" ID="{B77D3263-19DA-4290-AF27-F8F8C16E4B2B}" ShortID="794162745">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="track functional can move" ID="{3C539DBA-5559-4D88-8805-CF9970A51A1C}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_engine_destroyed" ID="{8421289A-0005-4792-A65B-039CCDFE9499}">
+							<ChildrenList>
+								<Action Name="" ID="{C813F810-4D33-4857-BC5E-EE331763A2BB}" ShortID="145137948">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="engine destroyed" ID="{AA40F9AF-BEB3-4AAC-A28B-0B3E6A46213C}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Play_fire_stopped" ID="{8FF9BEA4-2DE5-4166-AE94-96669C951D22}">
+							<ChildrenList>
+								<Action Name="" ID="{533DD8E8-AA89-429E-80BD-F9915F41FB94}" ShortID="517388403">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="fire stopped" ID="{E0FA1C4B-3DC8-4078-8C6C-9C1C0E0B60B2}" WorkUnitID="{2EC6EC6D-76FB-4B1D-B9A4-416CD8AD374F}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

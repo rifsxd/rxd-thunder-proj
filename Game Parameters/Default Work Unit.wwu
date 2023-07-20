@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{E7FD963C-6A14-4104-9727-7153D3AEBDEB}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{E7FD963C-6A14-4104-9727-7153D3AEBDEB}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Settings" ID="{80507D3D-CD1F-4094-87DE-C25BA545CC35}" ShortID="399818423">
+					<ChildrenList>
+						<GameParameter Name="RTPC_ext_settings_volume_master_fx" ID="{1908AAD6-AC9B-4DC7-9EDA-D1002D635E33}">
+							<PropertyList>
+								<Property Name="InitialValue" Type="Real64" Value="1"/>
+								<Property Name="Max" Type="Real64" Value="1"/>
+							</PropertyList>
+						</GameParameter>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
